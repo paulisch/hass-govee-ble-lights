@@ -1,1 +1,1 @@
-DOMAIN = "govee-ble-lights"
+DOMAIN = "hass-govee-ble-lights"

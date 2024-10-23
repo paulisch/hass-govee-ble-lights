@@ -43,7 +43,7 @@ rm govee-ble-lights.zip
 
 ### Using UI
 
-[![Open your Home Assistant instance and start setting up a new integration.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=govee-ble-lights)
+[![Open your Home Assistant instance and start setting up a new integration.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=hass-govee-ble-lights)
 
 From the Home Assistant front page go to `Configuration` and then select `Devices & Services` from the list.
 Use the `Add Integration` button in the bottom right to add a new integration called `Govee Bluetooth Lights`.
